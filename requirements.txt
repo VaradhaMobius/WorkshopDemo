@@ -1,0 +1,6 @@
+streamlit
+altair
+requests
+pandas
+re
+altair
