@@ -32,9 +32,6 @@ if uploaded_file is not None:
 else:
     st.write("Please upload a file into the application")
 
-
-
-
 # --------------------------------------------------------
 
 model_url = "http://10.101.11.23:8000/deepseek_ai_model"

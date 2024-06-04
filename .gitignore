@@ -1,3 +1,7 @@
 /.venv
 /test.py
 /~$Demo.docx
+.fake
+__pycache__
+.venv
+.DS_Store
